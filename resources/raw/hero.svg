@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/knichian/Documents/1-active_interests/3-game_design/2-progression_journey/testing_playground/taty_quest/atempt3/resources/hero.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="hero.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.1406248"
+     inkscape:cx="62.208653"
+     inkscape:cy="55.938933"
+     inkscape:window-width="1920"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="128px" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -128 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="512 : -128 : 1"
+       inkscape:persp3d-origin="256 : -213.33333 : 1"
+       id="perspective910" />
+  </defs>
+  <g
+     inkscape:label="vilain"
+     inkscape:groupmode="layer"
+     id="g1143"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1141"
+       transform="matrix(0.26207975,0,0,0.26214773,-3.092416,-3.1098189)"
+       inkscape:export-filename="/home/knichian/Documents/1-active_interests/3-game_design/2-progression_journey/testing_playground/taty_quest/atempt3/resources/hero_128.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="body">
+      <circle
+         style="fill:#ff6600;stroke:#000000;stroke-width:9.378;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1129"
+         cx="256"
+         cy="256"
+         r="239.44815"
+         inkscape:label="head" />
+      <g
+         id="g1139"
+         inkscape:label="face">
+        <g
+           id="g1135"
+           transform="translate(-6.3758316,-3.1385378)"
+           inkscape:label="olhos">
+          <ellipse
+             style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse1131"
+             cx="176.61348"
+             cy="207.53542"
+             rx="44.639473"
+             ry="43.076397" />
+          <ellipse
+             style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse1133"
+             cx="348.13818"
+             cy="207.53542"
+             rx="44.639473"
+             ry="43.076397" />
+        </g>
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:9.29749;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse1137"
+           cx="256.51306"
+           cy="346.04108"
+           rx="70.694214"
+           ry="25.708504"
+           inkscape:label="boca" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.7345;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 140.0356,359.82471 c -2.78946,-106.11329 67.90091,-42.56344 117.08084,-99.67895 53.45761,61.26184 128.31665,-0.49487 112.82189,100.42881"
+         id="path2546"
+         sodipodi:nodetypes="ccc"
+         inkscape:label="mustashe" />
+    </g>
+  </g>
+  <g
+     inkscape:label="hero"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g933"
+       transform="matrix(0.26207975,0,0,0.26214773,-3.092416,-3.1098189)"
+       inkscape:export-filename="/home/knichian/Documents/1-active_interests/3-game_design/2-progression_journey/testing_playground/taty_quest/atempt3/resources/hero_128.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="body">
+      <circle
+         style="fill:#ffd42a;stroke:#000000;stroke-width:9.378;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path846"
+         cx="256"
+         cy="256"
+         r="239.44815"
+         inkscape:label="head" />
+      <g
+         id="g927"
+         inkscape:label="face">
+        <g
+           id="g2859"
+           transform="translate(-6.3758316,-3.1385378)"
+           inkscape:label="olhos">
+          <ellipse
+             style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path850"
+             cx="176.61348"
+             cy="207.53542"
+             rx="44.639473"
+             ry="43.076397" />
+          <ellipse
+             style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path850-3"
+             cx="348.13818"
+             cy="207.53542"
+             rx="44.639473"
+             ry="43.076397" />
+        </g>
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:9.29749;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3865"
+           cx="256.51306"
+           cy="346.04108"
+           rx="70.694214"
+           ry="25.708504"
+           inkscape:label="boca" />
+      </g>
+    </g>
+  </g>
+</svg>
